@@ -1,0 +1,5 @@
+E:\NAGP\DEvOps\example-master\example-master\src\Example\bin\Release\Example.dll
+E:\NAGP\DEvOps\example-master\example-master\src\Example\bin\Release\Example.pdb
+E:\NAGP\DEvOps\example-master\example-master\src\Example\obj\Release\Example.csprojResolveAssemblyReference.cache
+E:\NAGP\DEvOps\example-master\example-master\src\Example\obj\Release\Example.dll
+E:\NAGP\DEvOps\example-master\example-master\src\Example\obj\Release\Example.pdb

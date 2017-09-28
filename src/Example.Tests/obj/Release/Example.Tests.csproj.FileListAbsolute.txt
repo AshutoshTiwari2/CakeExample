@@ -1,0 +1,9 @@
+E:\NAGP\DEvOps\example-master\example-master\src\Example.Tests\bin\Release\Example.Tests.dll
+E:\NAGP\DEvOps\example-master\example-master\src\Example.Tests\bin\Release\Example.Tests.pdb
+E:\NAGP\DEvOps\example-master\example-master\src\Example.Tests\bin\Release\Example.dll
+E:\NAGP\DEvOps\example-master\example-master\src\Example.Tests\bin\Release\nunit.framework.dll
+E:\NAGP\DEvOps\example-master\example-master\src\Example.Tests\bin\Release\Example.pdb
+E:\NAGP\DEvOps\example-master\example-master\src\Example.Tests\bin\Release\nunit.framework.xml
+E:\NAGP\DEvOps\example-master\example-master\src\Example.Tests\obj\Release\Example.Tests.csprojResolveAssemblyReference.cache
+E:\NAGP\DEvOps\example-master\example-master\src\Example.Tests\obj\Release\Example.Tests.dll
+E:\NAGP\DEvOps\example-master\example-master\src\Example.Tests\obj\Release\Example.Tests.pdb
